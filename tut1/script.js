@@ -1,7 +1,9 @@
+/*jshint esversion: 6 */
+
 main();
 
 function main() {
-	const canvas = document.querySelector("#glCanvas");
+	const canvas = document.querySelector("#glcanvas");
      
     const gl = canvas.getContext("webgl");
 
