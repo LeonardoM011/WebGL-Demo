@@ -1,5 +1,3 @@
-/*jshint esversion: 6 */
-
 var connect = require('connect');
 var serveStatic = require('serve-static');
 
